@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Aryan Thakur 👋
 
-<!--
-**aryandev-hub/aryandev-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Electronics & Communication Engineer
 
-Here are some ideas to get you started:
+🎓 Class 11 PCM Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Interested in:
+- VLSI Design
+- Semiconductor Technology
+- Digital Electronics
+- Computer Architecture
+- Embedded Systems
+- IoT
+
+🌱 Currently Learning:
+- Python
+- C Programming
+- Electronics Fundamentals
+- Digital Logic Design
+- Git & GitHub
+
+🎯 Long-Term Goals:
+- Master VLSI Design
+- Learn Verilog & SystemVerilog
+- Work on FPGA Projects
+- Build Semiconductor Design Skills
+- Secure internships at top semiconductor companies
+
+## Current Roadmap
+
+- [x] GitHub Profile Setup
+- [ ] Python Fundamentals
+- [ ] C Programming
+- [ ] Digital Logic Design
+- [ ] Arduino Projects
+- [ ] Verilog HDL
+- [ ] FPGA Development
+- [ ] VLSI Design Flow
+
+## Featured Repositories (Coming Soon)
+
+📌 python-for-engineers
+
+📌 digital-logic-design
+
+📌 arduino-projects
+
+📌 verilog-learning
+
+📌 vlsi-notes
+
+## Connect With Me
+
+LinkedIn: Coming Soon
+
+---
+"Learning today to build tomorrow's chips."
